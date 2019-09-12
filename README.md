@@ -1,5 +1,7 @@
 # SilverStripe TreeDropdownField Bug
 
+[https://github.com/silverstripe/silverstripe-admin/issues/954](https://github.com/silverstripe/silverstripe-admin/issues/954)
+
 `TreeDropdownField` fails to load items when `TreeBaseID` is set.
 
 ## Setup
