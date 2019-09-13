@@ -7,9 +7,10 @@
 ## Setup
 
 1. `vagrant up`
-2. `sudo php-switch 7.1`
-3. `composer install`
-4. `sspak load testcase.sspak`
+2. `vagrant ssh`
+3. `sudo php-switch 7.1`
+4. `composer install`
+5. `sspak load testcase.sspak`
 
 ## Steps to reproduce the issue
 
